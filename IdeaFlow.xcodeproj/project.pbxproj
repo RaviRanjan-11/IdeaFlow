@@ -13,9 +13,9 @@
 		FAD184CA2BF9F14D00F5A3AF /* Base in Resources */ = {isa = PBXBuildFile; fileRef = FAD184C92BF9F14D00F5A3AF /* Base */; };
 		FAD184CC2BF9F14E00F5A3AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD184CB2BF9F14E00F5A3AF /* Assets.xcassets */; };
 		FAD184CF2BF9F14E00F5A3AF /* Base in Resources */ = {isa = PBXBuildFile; fileRef = FAD184CE2BF9F14E00F5A3AF /* Base */; };
-		FAD184D72BF9F23E00F5A3AF /* FakeResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD184D62BF9F23E00F5A3AF /* FakeResponse.swift */; };
 		FAD184D92BF9F3CF00F5A3AF /* Viewmodel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD184D82BF9F3CF00F5A3AF /* Viewmodel.swift */; };
 		FAD184DB2BFA111800F5A3AF /* RelationTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD184DA2BFA111800F5A3AF /* RelationTag.swift */; };
+		FAD184DD2BFA132300F5A3AF /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD184DC2BFA132300F5A3AF /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,9 +27,9 @@
 		FAD184CB2BF9F14E00F5A3AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAD184CE2BF9F14E00F5A3AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAD184D02BF9F14E00F5A3AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FAD184D62BF9F23E00F5A3AF /* FakeResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FakeResponse.swift; sourceTree = "<group>"; };
 		FAD184D82BF9F3CF00F5A3AF /* Viewmodel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Viewmodel.swift; sourceTree = "<group>"; };
 		FAD184DA2BFA111800F5A3AF /* RelationTag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelationTag.swift; sourceTree = "<group>"; };
+		FAD184DC2BFA132300F5A3AF /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,11 +67,11 @@
 				FAD184C62BF9F14D00F5A3AF /* ViewController.swift */,
 				FAD184D82BF9F3CF00F5A3AF /* Viewmodel.swift */,
 				FAD184DA2BFA111800F5A3AF /* RelationTag.swift */,
+				FAD184DC2BFA132300F5A3AF /* Model.swift */,
 				FAD184C82BF9F14D00F5A3AF /* Main.storyboard */,
 				FAD184CB2BF9F14E00F5A3AF /* Assets.xcassets */,
 				FAD184CD2BF9F14E00F5A3AF /* LaunchScreen.storyboard */,
 				FAD184D02BF9F14E00F5A3AF /* Info.plist */,
-				FAD184D62BF9F23E00F5A3AF /* FakeResponse.swift */,
 			);
 			path = IdeaFlow;
 			sourceTree = "<group>";
@@ -150,8 +150,8 @@
 				FAD184C72BF9F14D00F5A3AF /* ViewController.swift in Sources */,
 				FAD184C32BF9F14D00F5A3AF /* AppDelegate.swift in Sources */,
 				FAD184DB2BFA111800F5A3AF /* RelationTag.swift in Sources */,
+				FAD184DD2BFA132300F5A3AF /* Model.swift in Sources */,
 				FAD184C52BF9F14D00F5A3AF /* SceneDelegate.swift in Sources */,
-				FAD184D72BF9F23E00F5A3AF /* FakeResponse.swift in Sources */,
 				FAD184D92BF9F3CF00F5A3AF /* Viewmodel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -6,7 +6,11 @@
 //
 
 import Foundation
+
+
 class ViewModel {
+    
+    
     private let data = DataModel(
         hashTaglist: [
             "idea",
