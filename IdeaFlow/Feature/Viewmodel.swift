@@ -26,28 +26,23 @@ class ViewModel {
             "engineering"
         ],
         Namelist: [
-            "Jacob Cole",
-            "Elon Musk",
-            "Ada Lovelace",
-            "Marie Curie",
-            "Alan Turing",
-            "Grace Hopper",
-            "Steve Jobs",
-            "Bill Gates",
-            "Mark Zuckerberg",
-            "Tim Berners-Lee"
+            "Cody",
+            "Raveena",
+            "Ravi",
+            "Marie",
+            "Grace",
+            "Steve",
+                        
         ],
         Relationlist: [
-            "Tesla Motors",
-            "Analytical Engine",
-            "Artificial Intelligence",
-            "Quantum Computing",
-            "Space Exploration",
-            "Genetic Engineering",
-            "Renewable Energy",
-            "Internet of Things",
-            "Machine Learning",
-            "Blockchain Technology"
+            "Tesla-Motors",
+            "Analytical-Engine",
+            "IdeaFlow",
+            "Artificial-Intelligence",
+            "Quantum-Computing",
+            "Genetic-Engineering",
+            "Machine-Learning",
+            "Blockchain-Technology"
         ]
     )
     
